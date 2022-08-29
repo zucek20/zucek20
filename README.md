@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="views" width="200"/>
+  <img width="200" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
 
 
   <div id="badges" align="center">
@@ -50,6 +50,7 @@ I am begginer front-end developer and UX/UI designer
 
   
 <div align="center">
-  <img width="200" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="views" width="200"/>
+  
 </div>
 
