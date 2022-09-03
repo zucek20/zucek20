@@ -20,6 +20,7 @@ I am begginer front-end developer and UX/UI designer
   <li>💡 I want to learn the Typescript Language and Jest in near future.</li>
   <li>In my free time I like to increase development skills, solve coding problems on Codewars and playing video games. 🎮</li>
 </ul>
+It's always exciting for me to learn new technologies and discover new possibilities.
 <br>
 <h2>👨🏻‍💻 My Tech stack:</h2>
 <div align="center">
