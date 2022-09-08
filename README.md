@@ -18,7 +18,7 @@ I am begginer front-end developer and UX/UI designer
   <li>🔭 I'm currently learnign Front-end development in React Framework and more advanced technologies linked to it.</li>
   <li>🖍️ Beside coding, I design my own project in <b>Figma</b> and make 2D graphics in <b>Affinity suite</b>.</li>
   <li>💡 I want to learn the Typescript Language and Test Driven Development in near future.</li>
-  <li>In my free time I like to increase development skills, solve coding problems on Codewars and playing video games. 🎮</li>
+  <li>In my free time I like to increase development skills, solve coding problems on Codewars and do workout in gym.</li>
 </ul>
 It's always exciting for me to learn new technologies and discover new possibilities.
 <br>
