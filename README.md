@@ -13,11 +13,11 @@
 </div>
 
 <h2>Something about me:</h2>
-I am begginer front-end developer and UX/UI designer 
+I am begginer front-end developer with UX/UI background. 
 <ul>
-  <li>🔭 I'm currently learnign Front-end development in React Framework and more advanced technologies linked to it.</li>
+  <li>🔭 I'm currently learnign Front-end development in Angular Framework and more advanced technologies linked to it like RxJs and Ngrx.</li>
   <li>🖍️ Beside coding, I design my own project in <b>Figma</b> and make 2D graphics in <b>Affinity suite</b>.</li>
-  <li>💡 I want to learn the Typescript Language and Test Driven Development in near future.</li>
+  <li>💡 I currently learning good practicies in Angular, Typescript Language and Test Driven Development.</li>
   <li>In my free time I like to increase development skills, solve coding problems on Codewars and do workout in gym.</li>
 </ul>
 It's always exciting for me to learn new technologies and discover new possibilities.
@@ -25,8 +25,10 @@ It's always exciting for me to learn new technologies and discover new possibili
 <h2>👨🏻‍💻 My Tech stack:</h2>
 <div align="center">
   <img src="https://asturics.com/wp-content/uploads/2022/05/angular.png" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" height="50"/>
+  <img src="https://ngrx.io/assets/images/badge.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" height="50"/>
