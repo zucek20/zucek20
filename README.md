@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <img width="200" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
-
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/pawe%C5%82-izdebski-7b3697199/">
@@ -16,8 +14,8 @@
 I am begginer front-end developer with UX/UI background. 
 <ul>
   <li>🔭 I'm currently learnign Front-end development in Angular Framework and more advanced technologies linked to it like RxJs and Ngrx.</li>
-  <li>🖍️ Beside coding, I design my own project in <b>Figma</b> and make 2D graphics in <b>Affinity suite</b>.</li>
   <li>💡 For now I am developing good practicies in Angular, Typescript Language and Test Driven Development.</li>
+  <li>🖍️ Beside coding, I design my own projects in <b>Figma</b> and make 2D graphics in <b>Affinity suite</b>.</li>
   <li>In my free time I like to increase development skills, solve coding problems on Codewars and do workout in gym.</li>
 </ul>
 It's always exciting for me to learn new technologies and discover new possibilities.
@@ -58,6 +56,5 @@ It's always exciting for me to learn new technologies and discover new possibili
   
 <div align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="views" width="200"/>
-  
 </div>
 
