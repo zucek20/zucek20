@@ -14,7 +14,7 @@
 I am begginer front-end developer with UX/UI background. 
 <ul>
   <li>🔭 I'm currently learnign Front-end development in Angular Framework and more advanced technologies linked to it like RxJs and Ngrx.</li>
-  <li>💡 For now I am developing good practicies in Angular, Typescript Language and Test Driven Development.</li>
+  <li>💡 For now I am getting to know Java, OOP and Test Driven Development.</li>
   <li>🖍️ Beside coding, I design my own projects in <b>Figma</b> and make 2D graphics in <b>Affinity suite</b>.</li>
   <li>In my free time I like to increase development skills, solve coding problems on Codewars and do workout in gym.</li>
 </ul>
