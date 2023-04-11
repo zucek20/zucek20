@@ -42,7 +42,7 @@ It's always exciting for me to learn new technologies and discover new possibili
 <h3>My <a href="https://pawelizdebski.netlify.app/">Portfolio</a></h3>
   <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zucek20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zucek20&show_icons=true&theme=transparent)
 
 </div>
 <h2>How to reach me:</h2>
