@@ -11,7 +11,7 @@
 </div>
 
 <h2>Something about me:</h2>
-I am begginer front-end developer with UX/UI background. 
+I am Junior front-end developer with UX/UI skills. 
 <ul>
   <li>🔭 I'm currently learnign Front-end development in Angular Framework and more advanced technologies linked to it like RxJs and Ngrx.</li>
   <li>💡 For now I am getting to know Java, OOP and Test Driven Development.</li>
@@ -40,8 +40,6 @@ It's always exciting for me to learn new technologies and discover new possibili
 <div align="center">
 <h3>My <a href="https://pawelizdebski.netlify.app/">Portfolio</a></h3>
   <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zucek20&show_icons=true&theme=transparent)
 
 </div>
 <h2>How to reach me:</h2>
